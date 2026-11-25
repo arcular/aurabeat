@@ -9,7 +9,7 @@ controls.
 - **Music wallpaper**: the song's music video (or its moving album art) behind your desktop icons, in time with the
   music. Or a turntable spinning the record, which you can scratch through and turn the volume up on.
 - **Side by side**: split a wide screen into two halves and pick what each shows: the video, the turntable or big
-  word-by-word lyrics.
+  word-by-word lyrics. A portrait screen can show the album cover or its own turntable.
 - **Music selector**: browse your Spotify albums and playlists as floating 3D covers.
 - **Customise** the lyrics, the light's colours and Aurabeat's own look.
 
