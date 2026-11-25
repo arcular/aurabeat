@@ -6,7 +6,7 @@ controls.
 
 - **Edge light**: a glow around your screens in the album's colours, pulsing with the beat.
 - **Synced lyrics** that fill in word by word as they're sung, floating at the bottom of your screen.
-- **Music wallpaper**: the song's music video (or its moving album art) behind your desktop icons, in time with the
+- **Music wallpaper**: the song's music video (or its album cover) behind your desktop icons, in time with the
   music. Or a turntable spinning the record, which you can scratch through and turn the volume up on.
 - **Side by side**: split a wide screen into two halves and pick what each shows: the video, the turntable or big
   word-by-word lyrics. A portrait screen can show the album cover or its own turntable.
@@ -42,7 +42,7 @@ with other music apps too.
 ## Music videos
 
 Right-click the tray icon → **Set up music videos…** and follow the four steps to get a free YouTube key from Google
-(about 3 minutes, once). Without one, you get the moving album art instead.
+(about 3 minutes, once). Without one, you get the album cover instead.
 
 ## Privacy
 
