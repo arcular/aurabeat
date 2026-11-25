@@ -5,9 +5,11 @@ Music, Amazon Music, YouTube Music or SoundCloud in your browser, or anything el
 controls.
 
 - **Edge light**: a glow around your screens in the album's colours, pulsing with the beat.
-- **Synced lyrics** that rise line by line, or big word-by-word lyrics next to the video.
+- **Synced lyrics** that fill in word by word as they're sung, floating at the bottom of your screen.
 - **Music wallpaper**: the song's music video (or its moving album art) behind your desktop icons, in time with the
   music. Or a turntable spinning the record, which you can scratch through and turn the volume up on.
+- **Side by side**: split a wide screen into two halves and pick what each shows: the video, the turntable or big
+  word-by-word lyrics.
 - **Music selector**: browse your Spotify albums and playlists as floating 3D covers.
 - **Customise** the lyrics, the light's colours and Aurabeat's own look.
 
